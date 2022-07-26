@@ -17,7 +17,7 @@ git add .gitignore
 
 sleep 1
 
-git commit -m '.DS_Store banished!'
+git commit -m '.DS_Store removal successful'
 
 sleep 1
 
