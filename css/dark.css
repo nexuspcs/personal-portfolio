@@ -73,43 +73,43 @@ body.dark h1, body.dark h2, body.dark h3, body.dark h4, body.dark h5, body.dark 
     color: #fff
 }
 
-body.dark .tokyo_tm_all_wrap .leftpart {
+body.dark .nexuspcs_tm_all_wrap .leftpart {
     background-color: #000
 }
 
-body.dark .tokyo_tm_all_wrap .leftpart .menu ul li a {
+body.dark .nexuspcs_tm_all_wrap .leftpart .menu ul li a {
     color: #bbb
 }
 
-body.dark .tokyo_tm_all_wrap .leftpart .menu ul li a:hover {
+body.dark .nexuspcs_tm_all_wrap .leftpart .menu ul li a:hover {
     color: #fff
 }
 
-body.dark .tokyo_tm_all_wrap .leftpart .menu ul li.active a {
+body.dark .nexuspcs_tm_all_wrap .leftpart .menu ul li.active a {
     color: #fff
 }
 
-body.dark .tokyo_tm_all_wrap .leftpart .copyright p {
+body.dark .nexuspcs_tm_all_wrap .leftpart .copyright p {
     color: #bbb
 }
 
-body.dark .tokyo_tm_all_wrap .leftpart .copyright a {
+body.dark .nexuspcs_tm_all_wrap .leftpart .copyright a {
     color: #bbb
 }
 
-body.dark .tokyo_tm_all_wrap .leftpart .copyright a:hover {
+body.dark .nexuspcs_tm_all_wrap .leftpart .copyright a:hover {
     color: #fff
 }
 
-body.dark .tokyo_tm_all_wrap .rightpart {
+body.dark .nexuspcs_tm_all_wrap .rightpart {
     background-color: #111
 }
 
-body.dark .tokyo_tm_all_wrap .rightpart_in {
+body.dark .nexuspcs_tm_all_wrap .rightpart_in {
     border-left-color: #202020
 }
 
-body.dark .tokyo_tm_home .social ul li .svg {
+body.dark .nexuspcs_tm_home .social ul li .svg {
     color: #fff
 }
 
@@ -151,107 +151,107 @@ body.dark .cursor-outer.cursor-hover {
     opacity: 0
 }
 
-body.dark .tokyo_tm_button a {
+body.dark .nexuspcs_tm_button a {
     background-color: #fff;
     color: #000
 }
 
-body.dark .tokyo_tm_about .description .right>ul>li a {
+body.dark .nexuspcs_tm_about .description .right>ul>li a {
     color: #bbb
 }
 
-body.dark .tokyo_tm_about .description .right>ul>li a:hover {
+body.dark .nexuspcs_tm_about .description .right>ul>li a:hover {
     color: #fff
 }
 
-body.dark .tokyo_tm_about .description .right>ul>li span {
+body.dark .nexuspcs_tm_about .description .right>ul>li span {
     color: #fff
 }
 
-body.dark .tokyo_tm_modalbox_about .counter ul li h3 {
+body.dark .nexuspcs_tm_modalbox_about .counter ul li h3 {
     color: #000
 }
 
-body.dark .tokyo_tm_modalbox_about .counter ul li span {
+body.dark .nexuspcs_tm_modalbox_about .counter ul li span {
     color: #767676
 }
 
-body.dark .tokyo_tm_title span {
+body.dark .nexuspcs_tm_title span {
     background-color: rgba(255, 255, 255, .04);
     color: #777
 }
 
-body.dark .tokyo_tm_portfolio .portfolio_filter ul li a {
+body.dark .nexuspcs_tm_portfolio .portfolio_filter ul li a {
     color: #bbb
 }
 
-body.dark .tokyo_tm_portfolio .portfolio_filter ul li a:hover {
+body.dark .nexuspcs_tm_portfolio .portfolio_filter ul li a:hover {
     color: #fff
 }
 
-body.dark .tokyo_tm_news ul li .details .title a {
+body.dark .nexuspcs_tm_news ul li .details .title a {
     color: #fff
 }
 
-body.dark .tokyo_tm_news ul li .details .date {
+body.dark .nexuspcs_tm_news ul li .details .date {
     color: #bbb
 }
 
-body.dark .tokyo_tm_news ul li .details .date a {
+body.dark .nexuspcs_tm_news ul li .details .date a {
     color: #bbb
 }
 
-body.dark .tokyo_tm_news ul li .details .date a:hover {
+body.dark .nexuspcs_tm_news ul li .details .date a:hover {
     color: #fff
 }
 
-body.dark .tokyo_tm_modalbox_news .details .title {
+body.dark .nexuspcs_tm_modalbox_news .details .title {
     color: #000
 }
 
-body.dark .tokyo_tm_modalbox_news .main_content .descriptions p {
+body.dark .nexuspcs_tm_modalbox_news .main_content .descriptions p {
     color: #767676
 }
 
-body.dark .tokyo_tm_contact .fields ul li input {
+body.dark .nexuspcs_tm_contact .fields ul li input {
     border: 1px solid rgba(255, 255, 255, .2);
     color: #fff
 }
 
-body.dark .tokyo_tm_contact .fields .last textarea {
+body.dark .nexuspcs_tm_contact .fields .last textarea {
     border: 1px solid rgba(255, 255, 255, .2);
     color: #fff
 }
 
-body.dark .tokyo_tm_contact .fields ul li input:focus {
+body.dark .nexuspcs_tm_contact .fields ul li input:focus {
     border: 1px solid #fff
 }
 
-body.dark .tokyo_tm_contact .fields .last textarea:focus {
+body.dark .nexuspcs_tm_contact .fields .last textarea:focus {
     border: 1px solid #fff;
     color: #fff
 }
 
-body.dark .tokyo_tm_news ul li .details {
+body.dark .nexuspcs_tm_news ul li .details {
     background-color: #000
 }
 
-body.dark .tokyo_tm_news ul li .extra:before {
+body.dark .nexuspcs_tm_news ul li .extra:before {
     background-color: rgba(255, 255, 255, .1)
 }
 
-body.dark .tokyo_tm_read_more a {
+body.dark .nexuspcs_tm_read_more a {
     color: #fff
 }
 
-body.dark .tokyo_tm_read_more a span {
+body.dark .nexuspcs_tm_read_more a span {
     background-color: #000
 }
 
-body.dark .tokyo_tm_read_more a:before {
+body.dark .nexuspcs_tm_read_more a:before {
     background-color: #fff
 }
 
-body.dark .tokyo_tm_news ul li .list_inner {
+body.dark .nexuspcs_tm_news ul li .list_inner {
     box-shadow: 0 0 20px rgb(255 255 255/7%)
 }

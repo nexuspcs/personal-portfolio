@@ -95,7 +95,7 @@ h6 {
     font-size: 16px
 }
 
-.tokyo_tm_all_wrap {
+.nexuspcs_tm_all_wrap {
     width: 100%;
     height: auto;
     clear: both;
@@ -103,7 +103,7 @@ h6 {
     position: relative
 }
 
-.tokyo_tm_all_wrap, .tokyo_tm_all_wrap * {
+.nexuspcs_tm_all_wrap, .nexuspcs_tm_all_wrap * {
     -webkit-box-sizing: border-box;
     -moz-box-sizing: border-box;
     box-sizing: border-box
@@ -232,7 +232,7 @@ h6 {
     }
 }
 
-.tokyo_tm_mobile_menu {
+.nexuspcs_tm_mobile_menu {
     position: fixed;
     top: 0;
     left: 0;
@@ -242,7 +242,7 @@ h6 {
     display: none
 }
 
-.tokyo_tm_mobile_menu .menu_inner {
+.nexuspcs_tm_mobile_menu .menu_inner {
     width: 100%;
     height: auto;
     clear: both;
@@ -252,35 +252,35 @@ h6 {
     padding: 20px 40px
 }
 
-.tokyo_tm_mobile_menu .logo img {
+.nexuspcs_tm_mobile_menu .logo img {
     max-width: 100px
 }
 
-.tokyo_tm_mobile_menu .menu ul {
+.nexuspcs_tm_mobile_menu .menu ul {
     margin: 0;
     list-style-type: none
 }
 
-.tokyo_tm_mobile_menu .menu ul li {
+.nexuspcs_tm_mobile_menu .menu ul li {
     margin: 0 10px 0 0;
     display: inline-block
 }
 
-.tokyo_tm_mobile_menu .menu ul li:last-child {
+.nexuspcs_tm_mobile_menu .menu ul li:last-child {
     margin-right: 0
 }
 
-.tokyo_tm_mobile_menu .menu ul li a {
+.nexuspcs_tm_mobile_menu .menu ul li a {
     text-decoration: none;
     color: #000
 }
 
-.tokyo_tm_mobile_menu .menu ul li .svg {
+.nexuspcs_tm_mobile_menu .menu ul li .svg {
     width: 16px;
     height: 16px
 }
 
-.tokyo_tm_all_wrap .leftpart {
+.nexuspcs_tm_all_wrap .leftpart {
     width: 450px;
     height: 100vh;
     position: fixed;
@@ -291,33 +291,33 @@ h6 {
     background-color: #fff
 }
 
-.tokyo_tm_all_wrap .leftpart_inner {
+.nexuspcs_tm_all_wrap .leftpart_inner {
     width: 100%;
     height: auto
 }
 
-.tokyo_tm_all_wrap .leftpart img {
+.nexuspcs_tm_all_wrap .leftpart img {
     max-width: 150px
 }
 
-.tokyo_tm_all_wrap .leftpart .menu {
+.nexuspcs_tm_all_wrap .leftpart .menu {
     padding: 40px 0 50px;
     width: 100%;
     float: left
 }
 
-.tokyo_tm_all_wrap .leftpart .menu ul {
+.nexuspcs_tm_all_wrap .leftpart .menu ul {
     margin: 0;
     list-style-type: none
 }
 
-.tokyo_tm_all_wrap .leftpart .menu ul li {
+.nexuspcs_tm_all_wrap .leftpart .menu ul li {
     margin: 0;
     width: 100%;
     float: left
 }
 
-.tokyo_tm_all_wrap .leftpart .menu ul li a {
+.nexuspcs_tm_all_wrap .leftpart .menu ul li a {
     text-decoration: none;
     color: #767676;
     display: inline-block;
@@ -330,22 +330,22 @@ h6 {
     transition: all .3s ease
 }
 
-.tokyo_tm_all_wrap .leftpart .menu ul li a:hover {
+.nexuspcs_tm_all_wrap .leftpart .menu ul li a:hover {
     color: #000;
     letter-spacing: 2px
 }
 
-.tokyo_tm_all_wrap .leftpart .menu ul li.active a {
+.nexuspcs_tm_all_wrap .leftpart .menu ul li.active a {
     color: #000;
     letter-spacing: 2px
 }
 
-.tokyo_tm_all_wrap .leftpart .copyright {
+.nexuspcs_tm_all_wrap .leftpart .copyright {
     width: 100%;
     float: left
 }
 
-.tokyo_tm_all_wrap .leftpart .copyright p {
+.nexuspcs_tm_all_wrap .leftpart .copyright p {
     font-size: 15px;
     color: #999;
     font-family: montserrat;
@@ -353,7 +353,7 @@ h6 {
     font-style: italic
 }
 
-.tokyo_tm_all_wrap .leftpart .copyright a {
+.nexuspcs_tm_all_wrap .leftpart .copyright a {
     text-decoration: none;
     color: #787878;
     font-weight: 500;
@@ -364,12 +364,12 @@ h6 {
     transition: all .3s ease
 }
 
-.tokyo_tm_all_wrap .leftpart .copyright a:hover {
+.nexuspcs_tm_all_wrap .leftpart .copyright a:hover {
     color: #000;
     letter-spacing: 2px
 }
 
-.tokyo_tm_all_wrap .rightpart {
+.nexuspcs_tm_all_wrap .rightpart {
     width: 100%;
     min-height: 100vh;
     float: left;
@@ -378,7 +378,7 @@ h6 {
     padding-left: 450px
 }
 
-.tokyo_tm_all_wrap .rightpart_in {
+.nexuspcs_tm_all_wrap .rightpart_in {
     position: relative;
     width: 100%;
     float: left;
@@ -387,7 +387,7 @@ h6 {
     min-height: 100vh
 }
 
-.tokyo_tm_section {
+.nexuspcs_tm_section {
     position: fixed;
     top: 0;
     left: 0;
@@ -402,13 +402,13 @@ h6 {
     z-index: -1
 }
 
-.tokyo_tm_section.active {
+.nexuspcs_tm_section.active {
     opacity: 1;
     transform: translate3d(0, 0, 0);
     z-index: 5
 }
 
-.tokyo_tm_home {
+.nexuspcs_tm_home {
     width: 100%;
     min-height: 100vh;
     clear: both;
@@ -418,19 +418,19 @@ h6 {
     position: relative
 }
 
-.tokyo_tm_home .home_content {
+.nexuspcs_tm_home .home_content {
     display: flex;
     align-items: center
 }
 
-.tokyo_tm_home .avatar {
+.nexuspcs_tm_home .avatar {
     min-width: 300px;
     min-height: 300px;
     position: relative;
     border-radius: 100%
 }
 
-.tokyo_tm_home .avatar .image {
+.nexuspcs_tm_home .avatar .image {
     position: absolute;
     top: 0;
     bottom: 0;
@@ -458,18 +458,18 @@ h6 {
     }
 }
 
-.tokyo_tm_home .details {
+.nexuspcs_tm_home .details {
     margin-left: 80px
 }
 
-.tokyo_tm_home .details .name {
+.nexuspcs_tm_home .details .name {
     font-size: 55px;
     font-weight: 800;
     text-transform: uppercase;
     margin-bottom: 14px
 }
 
-.tokyo_tm_home .details .job {
+.nexuspcs_tm_home .details .job {
     font-family: montserrat;
     font-style: italic;
     font-weight: 500;
@@ -477,26 +477,26 @@ h6 {
     margin-bottom: 30px
 }
 
-.tokyo_tm_home .social {
+.nexuspcs_tm_home .social {
     width: 100%;
     float: left
 }
 
-.tokyo_tm_home .social ul {
+.nexuspcs_tm_home .social ul {
     margin: 0;
     list-style-type: none
 }
 
-.tokyo_tm_home .social ul li {
+.nexuspcs_tm_home .social ul li {
     margin: 0 12px 0 0;
     display: inline-block
 }
 
-.tokyo_tm_home .social ul li:last-child {
+.nexuspcs_tm_home .social ul li:last-child {
     margin-right: 0
 }
 
-.tokyo_tm_home .social ul li a {
+.nexuspcs_tm_home .social ul li a {
     text-decoration: none;
     color: #000;
     -webkit-transition: all .3s ease;
@@ -506,16 +506,16 @@ h6 {
     transition: all .3s ease
 }
 
-.tokyo_tm_home .social ul li a:hover {
+.nexuspcs_tm_home .social ul li a:hover {
     color: #000
 }
 
-.tokyo_tm_home .social ul li .svg {
+.nexuspcs_tm_home .social ul li .svg {
     width: 17px;
     height: 17px
 }
 
-.tokyo_tm_about {
+.nexuspcs_tm_about {
     width: 100%;
     height: auto;
     clear: both;
@@ -523,17 +523,17 @@ h6 {
     padding: 100px 0
 }
 
-.tokyo_tm_about .about_image {
+.nexuspcs_tm_about .about_image {
     position: relative;
     margin-bottom: 48px
 }
 
-.tokyo_tm_about .about_image img {
+.nexuspcs_tm_about .about_image img {
     opacity: 0;
     min-width: 100%
 }
 
-.tokyo_tm_about .about_image .main {
+.nexuspcs_tm_about .about_image .main {
     position: absolute;
     top: 0;
     bottom: 0;
@@ -544,56 +544,56 @@ h6 {
     background-position: center
 }
 
-.tokyo_tm_about .about_image img {
+.nexuspcs_tm_about .about_image img {
     min-width: 100%;
     box-shadow: 0 0 20px rgba(0, 0, 0, .12)
 }
 
-.tokyo_tm_about .description {
+.nexuspcs_tm_about .description {
     width: 100%;
     height: auto;
     clear: both
 }
 
-.tokyo_tm_about .description_inner {
+.nexuspcs_tm_about .description_inner {
     width: 100%;
     display: flex;
     justify-content: space-between
 }
 
-.tokyo_tm_about .description .left {
+.nexuspcs_tm_about .description .left {
     width: 55%;
     padding-right: 50px
 }
 
-.tokyo_tm_about .description .left p {
+.nexuspcs_tm_about .description .left p {
     margin-bottom: 35px;
     font-style: italic
 }
 
-.tokyo_tm_about .description .name {
+.nexuspcs_tm_about .description .name {
     font-weight: 700;
     font-size: 22px;
     margin-bottom: 26px
 }
 
-.tokyo_tm_about .description .right {
+.nexuspcs_tm_about .description .right {
     width: 45%;
     padding-left: 50px
 }
 
-.tokyo_tm_about .description .right>ul {
+.nexuspcs_tm_about .description .right>ul {
     margin: 0;
     list-style-type: none
 }
 
-.tokyo_tm_about .description .right>ul>li {
+.nexuspcs_tm_about .description .right>ul>li {
     margin: 0;
     width: 100%;
     float: left
 }
 
-.tokyo_tm_about .description .right>ul>li span {
+.nexuspcs_tm_about .description .right>ul>li span {
     min-width: 90px;
     display: inline-block;
     font-weight: 700;
@@ -601,7 +601,7 @@ h6 {
     font-style: italic
 }
 
-.tokyo_tm_about .description .right>ul>li a {
+.nexuspcs_tm_about .description .right>ul>li a {
     text-decoration: none;
     color: #787878;
     -webkit-transition: all .3s ease;
@@ -611,19 +611,19 @@ h6 {
     transition: all .3s ease;
 }
 
-.tokyo_tm_about .description .right>ul>li a:hover {
+.nexuspcs_tm_about .description .right>ul>li a:hover {
     color: #000;
     letter-spacing: 2px;
 }
 
-.tokyo_tm_button {
+.nexuspcs_tm_button {
     width: 100%;
     height: auto;
     clear: both;
     float: left;
 }
 
-.tokyo_tm_button a {
+.nexuspcs_tm_button a {
     text-decoration: none;
     color: #fff;
     display: inline-block;
@@ -637,7 +637,7 @@ h6 {
     transition: all .3s ease;
 }
 
-.tokyo_tm_button a:hover {
+.nexuspcs_tm_button a:hover {
     letter-spacing: 2px;
 }
 
@@ -645,13 +645,13 @@ h6 {
 
 
 
-.tokyo_tm_button_mail {
+.nexuspcs_tm_button_mail {
     width: 100%;
     height: auto;
     clear: both;
     float: right;
 }
-.tokyo_tm_button_mail a {
+.nexuspcs_tm_button_mail a {
     text-decoration: none;
     color: #fff;
     display: inline-block;
@@ -665,14 +665,14 @@ h6 {
     transition: all .3s ease;
 }
 
-.tokyo_tm_button_mail a:hover {
+.nexuspcs_tm_button_mail a:hover {
     letter-spacing: 2px;
 }
 
 
 
 
-.tokyo_tm_modalbox_about {
+.nexuspcs_tm_modalbox_about {
     position: fixed;
     top: 0;
     left: 0;
@@ -689,16 +689,16 @@ h6 {
     transition: all .3s ease
 }
 
-.tokyo_tm_modalbox_about.opened {
+.nexuspcs_tm_modalbox_about.opened {
     opacity: 1;
     visibility: visible
 }
 
-.tokyo_tm_modalbox_about .container {
+.nexuspcs_tm_modalbox_about .container {
     height: 100vh
 }
 
-.tokyo_tm_modalbox_about .box_inner {
+.nexuspcs_tm_modalbox_about .box_inner {
     position: absolute;
     top: 70px;
     bottom: 70px;
@@ -718,13 +718,13 @@ h6 {
     transition: all .3s ease
 }
 
-.tokyo_tm_modalbox_about.opened .box_inner {
+.nexuspcs_tm_modalbox_about.opened .box_inner {
     opacity: 1;
     visibility: visible;
     margin-top: 0
 }
 
-.tokyo_tm_modalbox_about .close {
+.nexuspcs_tm_modalbox_about .close {
     position: fixed;
     left: 100%;
     top: 0;
@@ -732,17 +732,17 @@ h6 {
     z-index: 111111
 }
 
-.tokyo_tm_modalbox_about .close a {
+.nexuspcs_tm_modalbox_about .close a {
     text-decoration: none;
     color: #fff
 }
 
-.tokyo_tm_modalbox_about .close .svg {
+.nexuspcs_tm_modalbox_about .close .svg {
     width: 50px;
     height: 50px
 }
 
-.tokyo_tm_modalbox_about .description_wrap {
+.nexuspcs_tm_modalbox_about .description_wrap {
     position: relative;
     width: 100%;
     height: 100%;
@@ -751,7 +751,7 @@ h6 {
     padding: 90px 70px 75px
 }
 
-.tokyo_tm_modalbox_about .my_box {
+.nexuspcs_tm_modalbox_about .my_box {
     width: 100%;
     height: auto;
     clear: both;
@@ -759,18 +759,18 @@ h6 {
     margin-bottom: 92px
 }
 
-.tokyo_tm_modalbox_about .my_box .left {
+.nexuspcs_tm_modalbox_about .my_box .left {
     width: 50%;
     padding-right: 50px
 }
 
-.tokyo_tm_modalbox_about .about_title h3 {
+.nexuspcs_tm_modalbox_about .about_title h3 {
     font-weight: 700;
     color: #000;
     font-size: 20px
 }
 
-.tokyo_progress {
+.nexuspcs_progress {
     width: 100%;
     height: auto;
     clear: both;
@@ -854,18 +854,18 @@ h6 {
     }
 }
 
-.tokyo_tm_modalbox_about .my_box .right {
+.nexuspcs_tm_modalbox_about .my_box .right {
     width: 50%;
     padding-left: 50px
 }
 
-.tokyo_tm_modalbox_about .counter {
+.nexuspcs_tm_modalbox_about .counter {
     width: 100%;
     float: left;
     clear: both
 }
 
-.tokyo_tm_modalbox_about .counter ul {
+.nexuspcs_tm_modalbox_about .counter ul {
     margin: 0 0 42px -50px;
     list-style-type: none;
     padding-top: 45px;
@@ -873,14 +873,14 @@ h6 {
     flex-wrap: wrap
 }
 
-.tokyo_tm_modalbox_about .counter ul li {
+.nexuspcs_tm_modalbox_about .counter ul li {
     margin: 0 0 50px;
     width: 33.3333%;
     float: left;
     padding-left: 50px
 }
 
-.tokyo_tm_modalbox_about .list_inner {
+.nexuspcs_tm_modalbox_about .list_inner {
     width: 100%;
     height: 100%;
     clear: both;
@@ -891,30 +891,30 @@ h6 {
     padding: 40px 20px
 }
 
-.tokyo_tm_modalbox_about .counter ul li h3 {
+.nexuspcs_tm_modalbox_about .counter ul li h3 {
     font-weight: 600;
     font-size: 20px;
     margin-bottom: 3px
 }
 
-.tokyo_tm_modalbox_about .counter ul li span {
+.nexuspcs_tm_modalbox_about .counter ul li span {
     font-style: italic
 }
 
-.tokyo_tm_modalbox_about .partners {
+.nexuspcs_tm_modalbox_about .partners {
     width: 100%;
     height: auto;
     clear: both;
     float: left
 }
 
-.tokyo_tm_modalbox_about .partners ul {
+.nexuspcs_tm_modalbox_about .partners ul {
     margin: 0;
     list-style-type: none;
     padding-top: 15px
 }
 
-.tokyo_tm_modalbox_about .partners ul li {
+.nexuspcs_tm_modalbox_about .partners ul li {
     margin: 0;
     opacity: .5;
     -webkit-transition: all .3s ease;
@@ -924,11 +924,11 @@ h6 {
     transition: all .3s ease
 }
 
-.tokyo_tm_modalbox_about .partners ul li:hover {
+.nexuspcs_tm_modalbox_about .partners ul li:hover {
     opacity: 1
 }
 
-.tokyo_tm_title {
+.nexuspcs_tm_title {
     width: 100%;
     height: auto;
     clear: both;
@@ -936,12 +936,12 @@ h6 {
     margin-bottom: 62px
 }
 
-.tokyo_tm_title h3 {
+.nexuspcs_tm_title h3 {
     font-weight: 800;
     font-family: montserrat
 }
 
-.tokyo_tm_title span {
+.nexuspcs_tm_title span {
     display: inline-block;
     background-color: rgba(0, 0, 0, .04);
     text-transform: uppercase;
@@ -954,7 +954,7 @@ h6 {
     margin-bottom: 11px
 }
 
-.tokyo_tm_title .title_flex {
+.nexuspcs_tm_title .title_flex {
     width: 100%;
     height: auto;
     clear: both;
@@ -963,21 +963,21 @@ h6 {
     align-items: flex-end
 }
 
-.tokyo_tm_portfolio .portfolio_filter ul {
+.nexuspcs_tm_portfolio .portfolio_filter ul {
     margin: 0;
     list-style-type: none
 }
 
-.tokyo_tm_portfolio .portfolio_filter ul li {
+.nexuspcs_tm_portfolio .portfolio_filter ul li {
     margin: 0 25px 0 0;
     display: inline-block
 }
 
-.tokyo_tm_portfolio .portfolio_filter ul li:last-child {
+.nexuspcs_tm_portfolio .portfolio_filter ul li:last-child {
     margin-right: 0
 }
 
-.tokyo_tm_portfolio .portfolio_filter ul li a {
+.nexuspcs_tm_portfolio .portfolio_filter ul li a {
     text-decoration: none;
     color: #767676;
     display: inline-block;
@@ -990,24 +990,24 @@ h6 {
     transition: all .3s ease
 }
 
-.tokyo_tm_portfolio .portfolio_filter ul li a.current {
+.nexuspcs_tm_portfolio .portfolio_filter ul li a.current {
     color: #000;
     letter-spacing: 2px
 }
 
-.tokyo_tm_portfolio .portfolio_filter ul li a:hover {
+.nexuspcs_tm_portfolio .portfolio_filter ul li a:hover {
     color: #000;
     letter-spacing: 2px
 }
 
-.tokyo_tm_portfolio .list_wrapper {
+.nexuspcs_tm_portfolio .list_wrapper {
     width: 100%;
     height: auto;
     clear: both;
     float: left
 }
 
-.tokyo_tm_portfolio {
+.nexuspcs_tm_portfolio {
     width: 100%;
     height: auto;
     clear: both;
@@ -1015,19 +1015,19 @@ h6 {
     padding: 100px 0 50px
 }
 
-.tokyo_tm_portfolio .portfolio_list {
+.nexuspcs_tm_portfolio .portfolio_list {
     margin: 0 0 0 -50px;
     list-style-type: none
 }
 
-.tokyo_tm_portfolio .portfolio_list li {
+.nexuspcs_tm_portfolio .portfolio_list li {
     margin: 0 0 50px;
     float: left;
     width: 50%;
     padding-left: 50px
 }
 
-.tokyo_tm_portfolio .portfolio_list li .inner {
+.nexuspcs_tm_portfolio .portfolio_list li .inner {
     width: 100%;
     height: auto;
     clear: both;
@@ -1036,12 +1036,12 @@ h6 {
     position: relative
 }
 
-.tokyo_tm_portfolio .portfolio_list li .inner img {
+.nexuspcs_tm_portfolio .portfolio_list li .inner img {
     opacity: 0;
     min-width: 100%
 }
 
-.tokyo_tm_portfolio .portfolio_list li .inner .main_image {
+.nexuspcs_tm_portfolio .portfolio_list li .inner .main_image {
     position: absolute;
     top: 0;
     bottom: 0;
@@ -1057,11 +1057,11 @@ h6 {
     transition: all .3s ease
 }
 
-.tokyo_tm_portfolio .portfolio_list li .inner:hover .main_image {
+.nexuspcs_tm_portfolio .portfolio_list li .inner:hover .main_image {
     transform: scale(1.1) translateZ(0)
 }
 
-.tokyo_tm_portfolio_titles {
+.nexuspcs_tm_portfolio_titles {
     white-space: nowrap;
     background: #fff;
     font-size: 18px;
@@ -1075,12 +1075,12 @@ h6 {
     visibility: hidden
 }
 
-.tokyo_tm_portfolio_titles.visible {
+.nexuspcs_tm_portfolio_titles.visible {
     opacity: 1;
     visibility: visible
 }
 
-.tokyo_tm_portfolio_titles .work__cat {
+.nexuspcs_tm_portfolio_titles .work__cat {
     position: absolute;
     background: #fff;
     top: 100%;
@@ -1098,7 +1098,7 @@ h6 {
     position: relative
 }
 
-.tokyo_tm_news {
+.nexuspcs_tm_news {
     width: 100%;
     height: auto;
     clear: both;
@@ -1106,19 +1106,19 @@ h6 {
     padding: 100px 0 45px
 }
 
-.tokyo_tm_news ul {
+.nexuspcs_tm_news ul {
     margin: 0 0 0 -50px;
     list-style-type: none
 }
 
-.tokyo_tm_news ul li {
+.nexuspcs_tm_news ul li {
     margin: 0 0 50px;
     float: left;
     width: 50%;
     padding-left: 50px
 }
 
-.tokyo_tm_news ul li .list_inner {
+.nexuspcs_tm_news ul li .list_inner {
     width: 100%;
     height: auto;
     clear: both;
@@ -1127,17 +1127,17 @@ h6 {
     box-shadow: 0 0 20px rgba(0, 0, 0, .07)
 }
 
-.tokyo_tm_news ul li .image {
+.nexuspcs_tm_news ul li .image {
     position: relative;
     overflow: hidden
 }
 
-.tokyo_tm_news ul li .image img {
+.nexuspcs_tm_news ul li .image img {
     min-width: 100%;
     opacity: 0
 }
 
-.tokyo_tm_news ul li .image .main {
+.nexuspcs_tm_news ul li .image .main {
     position: absolute;
     top: 0;
     bottom: 0;
@@ -1153,11 +1153,11 @@ h6 {
     transition: all .3s ease
 }
 
-.tokyo_tm_news ul li .list_inner .image:hover .main {
+.nexuspcs_tm_news ul li .list_inner .image:hover .main {
     transform: scale(1.1) translateZ(0)
 }
 
-.tokyo_tm_news ul li .details {
+.nexuspcs_tm_news ul li .details {
     width: 100%;
     float: left;
     padding: 30px 40px 25px;
@@ -1169,16 +1169,16 @@ h6 {
     transition: all .3s ease
 }
 
-.tokyo_tm_news ul li .list_inner:hover .details {
+.nexuspcs_tm_news ul li .list_inner:hover .details {
     box-shadow: 0 0 20px rgba(0, 0, 0, .12)
 }
 
-.tokyo_tm_news ul li .details .title {
+.nexuspcs_tm_news ul li .details .title {
     margin-bottom: 10px;
     line-height: 1.4
 }
 
-.tokyo_tm_news ul li .details .title a {
+.nexuspcs_tm_news ul li .details .title a {
     text-decoration: none;
     color: #000;
     font-size: 18px;
@@ -1191,18 +1191,18 @@ h6 {
     transition: all .3s ease
 }
 
-.tokyo_tm_news ul li .details .title a:hover {
+.nexuspcs_tm_news ul li .details .title a:hover {
     color: #000
 }
 
-.tokyo_tm_news ul li .details .date {
+.nexuspcs_tm_news ul li .details .date {
     font-family: montserrat;
     font-size: 13px;
     color: #767676;
     font-style: italic
 }
 
-.tokyo_tm_news ul li .details .date a {
+.nexuspcs_tm_news ul li .details .date a {
     text-decoration: none;
     color: #767676;
     -webkit-transition: all .3s ease;
@@ -1212,22 +1212,22 @@ h6 {
     transition: all .3s ease
 }
 
-.tokyo_tm_news ul li .details .date a:hover {
+.nexuspcs_tm_news ul li .details .date a:hover {
     color: #000
 }
 
-.tokyo_tm_news ul li .details .date span {
+.nexuspcs_tm_news ul li .details .date span {
     position: relative
 }
 
-.tokyo_tm_news ul li .details .date span:before {
+.nexuspcs_tm_news ul li .details .date span:before {
     position: relative;
     content: "/";
     font-size: 10px;
     padding: 0 7px 0 2px
 }
 
-.tokyo_tm_news ul li .extra {
+.nexuspcs_tm_news ul li .extra {
     display: flex;
     align-items: center;
     justify-content: space-between;
@@ -1235,7 +1235,7 @@ h6 {
     position: relative
 }
 
-.tokyo_tm_news ul li .extra:before {
+.nexuspcs_tm_news ul li .extra:before {
     position: absolute;
     content: "";
     width: 100%;
@@ -1244,13 +1244,13 @@ h6 {
     bottom: -7px
 }
 
-.tokyo_tm_news ul li .my_like a {
+.nexuspcs_tm_news ul li .my_like a {
     text-decoration: none;
     color: #767676;
     font-size: 13px
 }
 
-.tokyo_tm_news ul li .my_like .svg {
+.nexuspcs_tm_news ul li .my_like .svg {
     width: 13px;
     height: 13px;
     position: relative;
@@ -1258,13 +1258,13 @@ h6 {
     transform: rotate(2deg)
 }
 
-.tokyo_tm_news ul li .my_like span {
+.nexuspcs_tm_news ul li .my_like span {
     display: inline-block;
     padding-left: 5px;
     font-style: italic
 }
 
-.tokyo_tm_read_more {
+.nexuspcs_tm_read_more {
     width: 100%;
     height: auto;
     clear: both;
@@ -1273,7 +1273,7 @@ h6 {
     overflow: hidden
 }
 
-.tokyo_tm_read_more a {
+.nexuspcs_tm_read_more a {
     text-decoration: none;
     display: inline-block;
     overflow: hidden;
@@ -1286,7 +1286,7 @@ h6 {
     font-family: montserrat
 }
 
-.tokyo_tm_read_more a:before {
+.nexuspcs_tm_read_more a:before {
     position: absolute;
     content: '';
     background-color: #000;
@@ -1304,7 +1304,7 @@ h6 {
     animation-timing-function: cubic-bezier(.6, .01, 0, 1)
 }
 
-.tokyo_tm_read_more a span {
+.nexuspcs_tm_read_more a span {
     display: inline-block;
     position: relative;
     background-color: #fff;
@@ -1313,14 +1313,14 @@ h6 {
     transform: translateX(-110%)
 }
 
-.tokyo_tm_news ul li .list_inner:hover .tokyo_tm_read_more a:before {
+.nexuspcs_tm_news ul li .list_inner:hover .nexuspcs_tm_read_more a:before {
     animation: read-more-anim-2;
     animation-fill-mode: forwards;
     animation-duration: .4s;
     animation-timing-function: cubic-bezier(.6, .01, 0, 1)
 }
 
-.tokyo_tm_news ul li .list_inner:hover .tokyo_tm_read_more a span {
+.nexuspcs_tm_news ul li .list_inner:hover .nexuspcs_tm_read_more a span {
     transform: translateX(0%)
 }
 
@@ -1360,7 +1360,7 @@ h6 {
     }
 }
 
-.tokyo_tm_modalbox_news .details .extra {
+.nexuspcs_tm_modalbox_news .details .extra {
     display: flex;
     align-items: center;
     justify-content: space-between;
@@ -1368,7 +1368,7 @@ h6 {
     margin-bottom: 30px
 }
 
-.tokyo_tm_modalbox_news .details .extra:before {
+.nexuspcs_tm_modalbox_news .details .extra:before {
     position: absolute;
     content: "";
     width: 100%;
@@ -1377,12 +1377,12 @@ h6 {
     bottom: -10px
 }
 
-.tokyo_tm_modalbox_news .details .extra .my_like a {
+.nexuspcs_tm_modalbox_news .details .extra .my_like a {
     text-decoration: none;
     color: #767676
 }
 
-.tokyo_tm_modalbox_news .details .extra .my_like .svg {
+.nexuspcs_tm_modalbox_news .details .extra .my_like .svg {
     width: 14px;
     height: 14px;
     position: relative;
@@ -1390,17 +1390,17 @@ h6 {
     transform: rotate(2deg)
 }
 
-.tokyo_tm_modalbox_news .details .extra .my_like span {
+.nexuspcs_tm_modalbox_news .details .extra .my_like span {
     display: inline-block;
     padding-left: 5px;
     font-style: italic
 }
 
-.tokyo_tm_modalbox_news .tokyo_tm_read_more {
+.nexuspcs_tm_modalbox_news .nexuspcs_tm_read_more {
     display: none
 }
 
-.tokyo_tm_full_link {
+.nexuspcs_tm_full_link {
     position: absolute;
     top: 0;
     bottom: 0;
@@ -1409,7 +1409,7 @@ h6 {
     z-index: 4
 }
 
-.tokyo_tm_modalbox_news {
+.nexuspcs_tm_modalbox_news {
     position: fixed;
     top: 0;
     left: 0;
@@ -1426,16 +1426,16 @@ h6 {
     transition: all .3s ease
 }
 
-.tokyo_tm_modalbox_news.opened {
+.nexuspcs_tm_modalbox_news.opened {
     opacity: 1;
     visibility: visible
 }
 
-.tokyo_tm_modalbox_news .container {
+.nexuspcs_tm_modalbox_news .container {
     height: 100vh
 }
 
-.tokyo_tm_modalbox_news .box_inner {
+.nexuspcs_tm_modalbox_news .box_inner {
     position: absolute;
     top: 70px;
     bottom: 70px;
@@ -1455,13 +1455,13 @@ h6 {
     transition: all .3s ease
 }
 
-.tokyo_tm_modalbox_news.opened .box_inner {
+.nexuspcs_tm_modalbox_news.opened .box_inner {
     opacity: 1;
     visibility: visible;
     margin-top: 0
 }
 
-.tokyo_tm_modalbox_news .close {
+.nexuspcs_tm_modalbox_news .close {
     position: fixed;
     left: 100%;
     top: 0;
@@ -1469,17 +1469,17 @@ h6 {
     z-index: 111111
 }
 
-.tokyo_tm_modalbox_news .close a {
+.nexuspcs_tm_modalbox_news .close a {
     text-decoration: none;
     color: #fff
 }
 
-.tokyo_tm_modalbox_news .close .svg {
+.nexuspcs_tm_modalbox_news .close .svg {
     width: 50px;
     height: 50px
 }
 
-.tokyo_tm_modalbox_news .description_wrap {
+.nexuspcs_tm_modalbox_news .description_wrap {
     position: relative;
     width: 100%;
     height: 100%;
@@ -1488,24 +1488,24 @@ h6 {
     padding: 70px
 }
 
-.tokyo_tm_modalbox_news .details {
+.nexuspcs_tm_modalbox_news .details {
     width: 100%;
     float: left;
     margin-bottom: 20px
 }
 
-.tokyo_tm_modalbox_news .description_wrap .image {
+.nexuspcs_tm_modalbox_news .description_wrap .image {
     position: relative;
     max-height: 450px;
     z-index: -1;
     margin-bottom: 40px
 }
 
-.tokyo_tm_modalbox_news .description_wrap .image img {
+.nexuspcs_tm_modalbox_news .description_wrap .image img {
     min-width: 100%
 }
 
-.tokyo_tm_modalbox_news .description_wrap .image .main {
+.nexuspcs_tm_modalbox_news .description_wrap .image .main {
     position: absolute;
     top: 0;
     bottom: 0;
@@ -1516,13 +1516,13 @@ h6 {
     background-size: cover
 }
 
-.tokyo_tm_modalbox_news .details .title {
+.nexuspcs_tm_modalbox_news .details .title {
     font-weight: 600;
     font-size: 23px;
     margin-bottom: 9px
 }
 
-.tokyo_tm_modalbox_news .date {
+.nexuspcs_tm_modalbox_news .date {
     text-transform: uppercase;
     font-family: montserrat;
     font-size: 12px;
@@ -1530,7 +1530,7 @@ h6 {
     font-style: italic
 }
 
-.tokyo_tm_modalbox_news .date a {
+.nexuspcs_tm_modalbox_news .date a {
     text-decoration: none;
     color: #767676;
     -webkit-transition: all .3s ease;
@@ -1540,16 +1540,16 @@ h6 {
     transition: all .3s ease
 }
 
-.tokyo_tm_modalbox_news .date a:hover {
+.nexuspcs_tm_modalbox_news .date a:hover {
     color: #000
 }
 
-.tokyo_tm_modalbox_news .date span {
+.nexuspcs_tm_modalbox_news .date span {
     position: relative;
     margin-left: 11px
 }
 
-.tokyo_tm_modalbox_news .date span:before {
+.nexuspcs_tm_modalbox_news .date span:before {
     position: absolute;
     content: "";
     margin-top: 0;
@@ -1562,7 +1562,7 @@ h6 {
     margin-right: 7px
 }
 
-.tokyo_tm_news .main_content {
+.nexuspcs_tm_news .main_content {
     opacity: 0;
     visibility: hidden;
     position: absolute;
@@ -1574,28 +1574,28 @@ body.modal {
     overflow-y: hidden
 }
 
-.tokyo_tm_modalbox_news .main_content {
+.nexuspcs_tm_modalbox_news .main_content {
     width: 100%;
     float: left
 }
 
-.tokyo_tm_modalbox_news .main_content .descriptions {
+.nexuspcs_tm_modalbox_news .main_content .descriptions {
     width: 100%;
     float: left;
     margin-bottom: 15px
 }
 
-.tokyo_tm_modalbox_news .main_content .descriptions .bigger {
+.nexuspcs_tm_modalbox_news .main_content .descriptions .bigger {
     color: #888;
     font-size: 20px;
     margin-bottom: 31px
 }
 
-.tokyo_tm_modalbox_news .main_content .descriptions p {
+.nexuspcs_tm_modalbox_news .main_content .descriptions p {
     margin-bottom: 22px
 }
 
-.tokyo_tm_modalbox_news .main_content .quotebox {
+.nexuspcs_tm_modalbox_news .main_content .quotebox {
     width: 100%;
     height: auto;
     clear: both;
@@ -1606,25 +1606,25 @@ body.modal {
     margin-bottom: 10px
 }
 
-.tokyo_tm_modalbox_news .main_content .quotebox p {
+.nexuspcs_tm_modalbox_news .main_content .quotebox p {
     font-size: 20px;
     font-style: italic;
     margin-bottom: 23px
 }
 
-.tokyo_tm_modalbox_news .main_content .icon {
+.nexuspcs_tm_modalbox_news .main_content .icon {
     position: absolute;
     left: 0;
     top: 10px
 }
 
-.tokyo_tm_modalbox_news .main_content .icon .svg {
+.nexuspcs_tm_modalbox_news .main_content .icon .svg {
     width: 40px;
     height: 40px;
     color: #000
 }
 
-.tokyo_tm_modalbox_news .news_share {
+.nexuspcs_tm_modalbox_news .news_share {
     width: 100%;
     height: auto;
     clear: both;
@@ -1632,7 +1632,7 @@ body.modal {
     align-items: center
 }
 
-.tokyo_tm_modalbox_news .news_share span {
+.nexuspcs_tm_modalbox_news .news_share span {
     font-family: montserrat;
     font-weight: 600;
     font-style: italic;
@@ -1640,24 +1640,24 @@ body.modal {
     color: #000
 }
 
-.tokyo_tm_modalbox_news .news_share ul {
+.nexuspcs_tm_modalbox_news .news_share ul {
     margin: 0;
     list-style-type: none;
     position: relative;
     top: -2px
 }
 
-.tokyo_tm_modalbox_news .news_share ul li {
+.nexuspcs_tm_modalbox_news .news_share ul li {
     margin: 0 12px 0 0;
     display: inline-block
 }
 
-.tokyo_tm_modalbox_news .news_share ul li .svg {
+.nexuspcs_tm_modalbox_news .news_share ul li .svg {
     width: 15px;
     height: 15px
 }
 
-.tokyo_tm_modalbox_news .news_share ul li a {
+.nexuspcs_tm_modalbox_news .news_share ul li a {
     text-decoration: none;
     color: #000;
     -webkit-transition: all .3s ease;
@@ -1667,7 +1667,7 @@ body.modal {
     transition: all .3s ease
 }
 
-.tokyo_tm_contact {
+.nexuspcs_tm_contact {
     width: 100%;
     height: auto;
     clear: both;
@@ -1675,7 +1675,7 @@ body.modal {
     padding: 100px 0
 }
 
-.tokyo_tm_contact .map_wrap {
+.nexuspcs_tm_contact .map_wrap {
     width: 100%;
     height: auto;
     clear: both;
@@ -1683,48 +1683,48 @@ body.modal {
     margin-bottom: 20px; 
 }
 
-.tokyo_tm_contact .map_wrap .map {
+.nexuspcs_tm_contact .map_wrap .map {
     min-height: 400px;
     width: 100%;
     filter: grayscale(1)
 }
 
-.tokyo_tm_contact .fields {
+.nexuspcs_tm_contact .fields {
     width: 100%;
     height: auto;
     clear: both;
     float: left
 }
 
-.tokyo_tm_contact .fields .first {
+.nexuspcs_tm_contact .fields .first {
     width: 100%;
     float: left
 }
 
-.tokyo_tm_contact .fields ul {
+.nexuspcs_tm_contact .fields ul {
     margin: 0;
     list-style-type: none
 }
 
-.tokyo_tm_contact .fields ul li {
+.nexuspcs_tm_contact .fields ul li {
     width: 100%;
     margin: 0 0 30px;
     float: left
 }
 
-.tokyo_tm_contact .fields ul li input {
+.nexuspcs_tm_contact .fields ul li input {
     width: 100%;
     border: 1px solid rgba(0, 0, 0, .2);
     background-color: transparent;
     font-style: italic
 }
 
-.tokyo_tm_contact .fields ul li input:focus {
+.nexuspcs_tm_contact .fields ul li input:focus {
     outline: none;
     border: 1px solid rgba(0, 0, 0, .5)
 }
 
-.tokyo_tm_contact .fields .last textarea {
+.nexuspcs_tm_contact .fields .last textarea {
     width: 100%;
     border: 1px solid rgba(0, 0, 0, .2);
     height: 120px;
@@ -1734,12 +1734,12 @@ body.modal {
     font-style: italic
 }
 
-.tokyo_tm_contact .fields .last textarea:focus {
+.nexuspcs_tm_contact .fields .last textarea:focus {
     outline: none;
     border: 1px solid rgba(0, 0, 0, .5)
 }
 
-.tokyo_tm_contact .empty_notice {
+.nexuspcs_tm_contact .empty_notice {
     color: #f52225;
     margin-bottom: 7px;
     display: none;
@@ -1747,20 +1747,20 @@ body.modal {
     font-weight: 500
 }
 
-.tokyo_tm_contact .contact_error {
+.nexuspcs_tm_contact .contact_error {
     color: #f52225;
     text-align: left;
     font-weight: 500
 }
 
-.tokyo_tm_contact .returnmessage {
+.nexuspcs_tm_contact .returnmessage {
     color: #3a00ff;
     margin-bottom: 7px;
     text-align: left;
     font-weight: 500
 }
 
-.tokyo_tm_all_wrap[data-magic-cursor=hide] .mouse-cursor {
+.nexuspcs_tm_all_wrap[data-magic-cursor=hide] .mouse-cursor {
     display: none
 }
 
@@ -1813,23 +1813,23 @@ body.modal {
     opacity: 0
 }
 
-.tokyo_tm_intro .short_info {
+.nexuspcs_tm_intro .short_info {
     position: fixed;
     top: 10%;
     width: 100%;
     text-align: center
 }
 
-.tokyo_tm_intro .short_info img {
+.nexuspcs_tm_intro .short_info img {
     margin-bottom: 25px
 }
 
-.tokyo_tm_intro .short_info h3 {
+.nexuspcs_tm_intro .short_info h3 {
     font-size: 20px;
     color: #767676
 }
 
-.tokyo_tm_intro {
+.nexuspcs_tm_intro {
     width: 100%;
     height: 100vh;
     clear: both;
@@ -1837,7 +1837,7 @@ body.modal {
     position: relative
 }
 
-.tokyo_tm_intro .demos {
+.nexuspcs_tm_intro .demos {
     width: 100%;
     height: 100%;
     clear: both;
@@ -1847,7 +1847,7 @@ body.modal {
     position: relative
 }
 
-.tokyo_tm_intro .left, .tokyo_tm_intro .right {
+.nexuspcs_tm_intro .left, .nexuspcs_tm_intro .right {
     width: 50%;
     height: 100%;
     display: flex;
@@ -1856,12 +1856,12 @@ body.modal {
     position: relative
 }
 
-.tokyo_tm_intro .demos img {
+.nexuspcs_tm_intro .demos img {
     max-width: 400px;
     margin-bottom: 25px
 }
 
-.tokyo_tm_intro .desc {
+.nexuspcs_tm_intro .desc {
     position: relative;
     top: 0;
     -webkit-transition: all .3s ease;
@@ -1871,12 +1871,12 @@ body.modal {
     transition: all .3s ease
 }
 
-.tokyo_tm_intro .desc h3 {
+.nexuspcs_tm_intro .desc h3 {
     font-size: 20px;
     font-weight: 800
 }
 
-.tokyo_tm_intro .intro_line, .tokyo_tm_intro .intro_line_2, .tokyo_tm_intro .intro_line_3 {
+.nexuspcs_tm_intro .intro_line, .nexuspcs_tm_intro .intro_line_2, .nexuspcs_tm_intro .intro_line_3 {
     position: fixed;
     top: 0;
     width: 1px;
@@ -1887,20 +1887,20 @@ body.modal {
     background-color: rgba(0, 0, 0, .06)
 }
 
-.tokyo_tm_intro .intro_line {
+.nexuspcs_tm_intro .intro_line {
     left: 25%
 }
 
-.tokyo_tm_intro .intro_line_2 {
+.nexuspcs_tm_intro .intro_line_2 {
     left: 50%;
     transform: translateY(-50%)
 }
 
-.tokyo_tm_intro .intro_line_3 {
+.nexuspcs_tm_intro .intro_line_3 {
     left: 75%
 }
 
-.tokyo_tm_intro .intro_link {
+.nexuspcs_tm_intro .intro_link {
     position: absolute;
     z-index: 2;
     top: 0;
@@ -1909,15 +1909,15 @@ body.modal {
     right: 0
 }
 
-.tokyo_tm_intro .left:hover .desc {
+.nexuspcs_tm_intro .left:hover .desc {
     top: -20px
 }
 
-.tokyo_tm_intro .right:hover .desc {
+.nexuspcs_tm_intro .right:hover .desc {
     top: -20px
 }
 
-.tokyo_tm_intro_fixed_price .pricing-info, .tokyo_tm_intro_fixed_price .anim {
+.nexuspcs_tm_intro_fixed_price .pricing-info, .nexuspcs_tm_intro_fixed_price .anim {
     text-decoration: none;
     color: #fff;
     font-family: montserrat;
@@ -1974,22 +1974,22 @@ body.modal {
     }
 }
 
-.tokyo_tm_intro_fixed_price .anim:nth-child(1) {
+.nexuspcs_tm_intro_fixed_price .anim:nth-child(1) {
     -webkit-animation: myAnim 2s infinite;
     animation: myAnim 2s infinite
 }
 
-.tokyo_tm_intro_fixed_price .anim:nth-child(2) {
+.nexuspcs_tm_intro_fixed_price .anim:nth-child(2) {
     -webkit-animation: myAnim 2s infinite .3s;
     animation: myAnim 2s infinite .3s
 }
 
-.tokyo_tm_intro_fixed_price .anim:nth-child(3) {
+.nexuspcs_tm_intro_fixed_price .anim:nth-child(3) {
     -webkit-animation: myAnim 2s infinite .6s;
     animation: myAnim 2s infinite .6s
 }
 
-.tokyo_tm_settings {
+.nexuspcs_tm_settings {
     position: fixed;
     z-index: 10;
     top: 15%;
@@ -2004,18 +2004,18 @@ body.modal {
     transition: all .3s ease
 }
 
-.tokyo_tm_settings.opened {
+.nexuspcs_tm_settings.opened {
     right: 0
 }
 
-.tokyo_tm_settings .wrapper {
+.nexuspcs_tm_settings .wrapper {
     width: 100%;
     height: auto;
     clear: both;
     float: left
 }
 
-.tokyo_tm_settings .icon {
+.nexuspcs_tm_settings .icon {
     position: absolute;
     top: 0;
     right: 100%;
@@ -2023,14 +2023,14 @@ body.modal {
     padding: 12px 12px 4px
 }
 
-.tokyo_tm_settings .icon .svg {
+.nexuspcs_tm_settings .icon .svg {
     color: #fff;
     width: 25px;
     height: 25px;
     animation: fa-spin 2s infinite linear
 }
 
-.tokyo_tm_settings .link {
+.nexuspcs_tm_settings .link {
     position: absolute;
     top: 0;
     bottom: 0;
@@ -2061,7 +2061,7 @@ body.modal {
     }
 }
 
-.tokyo_tm_settings .title {
+.nexuspcs_tm_settings .title {
     color: #fff;
     font-family: montserrat;
     font-weight: 600;
@@ -2069,7 +2069,7 @@ body.modal {
     display: inline-block
 }
 
-.tokyo_tm_settings .title:before {
+.nexuspcs_tm_settings .title:before {
     position: absolute;
     content: "";
     width: 100%;
@@ -2079,18 +2079,18 @@ body.modal {
     bottom: 0
 }
 
-.tokyo_tm_settings .colors {
+.nexuspcs_tm_settings .colors {
     margin: 0 0 22px;
     list-style-type: none;
     padding-top: 32px
 }
 
-.tokyo_tm_settings .colors li {
+.nexuspcs_tm_settings .colors li {
     margin: 0;
     display: inline-block
 }
 
-.tokyo_tm_settings .colors li a {
+.nexuspcs_tm_settings .colors li a {
     text-decoration: none;
     display: inline-block;
     width: 30px;
@@ -2098,106 +2098,106 @@ body.modal {
     border-radius: 100%
 }
 
-.tokyo_tm_settings .direction {
+.nexuspcs_tm_settings .direction {
     list-style-type: none;
     margin: 0
 }
 
-.tokyo_tm_settings .direction li {
+.nexuspcs_tm_settings .direction li {
     margin: 0 20px 0 0;
     display: inline-block
 }
 
-.tokyo_tm_settings .direction li a {
+.nexuspcs_tm_settings .direction li a {
     opacity: .4;
     text-decoration: none;
     color: #fff
 }
 
-.tokyo_tm_settings .direction li a.active {
+.nexuspcs_tm_settings .direction li a.active {
     opacity: 1
 }
 
-.tokyo_tm_settings .direction li .svg {
+.nexuspcs_tm_settings .direction li .svg {
     width: 25px;
     height: 25px
 }
 
-.tokyo_tm_settings .colors li.bl {
+.nexuspcs_tm_settings .colors li.bl {
     display: inline-block
 }
 
-.tokyo_tm_settings .colors li.wh {
+.nexuspcs_tm_settings .colors li.wh {
     display: none
 }
 
-body.dark .tokyo_tm_settings .colors li.bl, .tokyo_tm_settings.changed .colors li.bl {
+body.dark .nexuspcs_tm_settings .colors li.bl, .nexuspcs_tm_settings.changed .colors li.bl {
     display: none
 }
 
-body.dark .tokyo_tm_settings .colors li.wh, .tokyo_tm_settings.changed .colors li.wh {
+body.dark .nexuspcs_tm_settings .colors li.wh, .nexuspcs_tm_settings.changed .colors li.wh {
     display: inline-block
 }
 
-body.dark .tokyo_tm_settings, .tokyo_tm_settings.changed {
+body.dark .nexuspcs_tm_settings, .nexuspcs_tm_settings.changed {
     background-color: #fff
 }
 
-body.dark .tokyo_tm_settings .icon, .tokyo_tm_settings.changed .icon {
+body.dark .nexuspcs_tm_settings .icon, .nexuspcs_tm_settings.changed .icon {
     background-color: #fff
 }
 
-body.dark .tokyo_tm_settings .icon .svg, .tokyo_tm_settings.changed .icon .svg {
+body.dark .nexuspcs_tm_settings .icon .svg, .nexuspcs_tm_settings.changed .icon .svg {
     color: #000
 }
 
-body.dark .tokyo_tm_settings .title, .tokyo_tm_settings.changed .title {
+body.dark .nexuspcs_tm_settings .title, .nexuspcs_tm_settings.changed .title {
     color: #000
 }
 
-body.dark .tokyo_tm_settings .title:before, .tokyo_tm_settings.changed .title:before {
+body.dark .nexuspcs_tm_settings .title:before, .nexuspcs_tm_settings.changed .title:before {
     background-color: rgba(0, 0, 0, .5)
 }
 
-body.dark .tokyo_tm_settings .direction li a, .tokyo_tm_settings.changed .direction li a {
+body.dark .nexuspcs_tm_settings .direction li a, .nexuspcs_tm_settings.changed .direction li a {
     color: #000
 }
 
-body.dark .tokyo_tm_settings .cursor li:nth-child(1) a, .tokyo_tm_settings.changed .cursor li:nth-child(1) a {
+body.dark .nexuspcs_tm_settings .cursor li:nth-child(1) a, .nexuspcs_tm_settings.changed .cursor li:nth-child(1) a {
     border-color: #000
 }
 
-body.dark .tokyo_tm_settings .cursor li:nth-child(1) a:before, .tokyo_tm_settings.changed .cursor li:nth-child(1) a:before {
+body.dark .nexuspcs_tm_settings .cursor li:nth-child(1) a:before, .nexuspcs_tm_settings.changed .cursor li:nth-child(1) a:before {
     background-color: #000
 }
 
-body.dark .tokyo_tm_settings .cursor li .svg, .tokyo_tm_settings.changed .cursor li .svg {
+body.dark .nexuspcs_tm_settings .cursor li .svg, .nexuspcs_tm_settings.changed .cursor li .svg {
     color: #000
 }
 
-.tokyo_tm_settings .cursor {
+.nexuspcs_tm_settings .cursor {
     margin: 0;
     list-style-type: none;
     padding-top: 15px
 }
 
-.tokyo_tm_settings .cursor li {
+.nexuspcs_tm_settings .cursor li {
     margin: 0 20px 0 0;
     display: inline-block
 }
 
-.tokyo_tm_settings .cursor li a {
+.nexuspcs_tm_settings .cursor li a {
     text-decoration: none;
     color: #fff;
     opacity: .4;
     font-weight: 600
 }
 
-.tokyo_tm_settings .cursor li a.showme {
+.nexuspcs_tm_settings .cursor li a.showme {
     opacity: 1
 }
 
-.tokyo_tm_settings .cursor li:nth-child(1) a {
+.nexuspcs_tm_settings .cursor li:nth-child(1) a {
     width: 30px;
     height: 30px;
     border-radius: 100%;
@@ -2206,7 +2206,7 @@ body.dark .tokyo_tm_settings .cursor li .svg, .tokyo_tm_settings.changed .cursor
     display: inline-block
 }
 
-.tokyo_tm_settings .cursor li:nth-child(1) a:before {
+.nexuspcs_tm_settings .cursor li:nth-child(1) a:before {
     position: absolute;
     content: "";
     width: 4px;
@@ -2218,25 +2218,25 @@ body.dark .tokyo_tm_settings .cursor li .svg, .tokyo_tm_settings.changed .cursor
     top: 50%
 }
 
-.tokyo_tm_settings .cursor li .svg {
+.nexuspcs_tm_settings .cursor li .svg {
     width: 25px;
     height: 25px;
     color: #fff
 }
 
-.tokyo_tm_settings .cursor li:nth-child(2) {
+.nexuspcs_tm_settings .cursor li:nth-child(2) {
     position: relative;
     top: -2px
 }
 
-.tokyo_tm_settings .effect {
+.nexuspcs_tm_settings .effect {
     margin: 0;
     list-style-type: none;
     padding-top: 15px;
     padding-bottom: 25px
 }
 
-.tokyo_tm_settings .effect li {
+.nexuspcs_tm_settings .effect li {
     margin: 0 0 5px;
     display: inline-block;
     width: 30px;
@@ -2248,7 +2248,7 @@ body.dark .tokyo_tm_settings .cursor li .svg, .tokyo_tm_settings.changed .cursor
     opacity: .4
 }
 
-.tokyo_tm_settings .effect li a {
+.nexuspcs_tm_settings .effect li a {
     text-decoration: none;
     color: #000;
     font-size: 13px;
@@ -2259,82 +2259,82 @@ body.dark .tokyo_tm_settings .cursor li .svg, .tokyo_tm_settings.changed .cursor
     top: 2px
 }
 
-.tokyo_tm_settings .effect li.selected {
+.nexuspcs_tm_settings .effect li.selected {
     background-color: #fff;
     opacity: 1
 }
 
 @media(max-width:1600px) {
-    .tokyo_tm_all_wrap .leftpart {
+    .nexuspcs_tm_all_wrap .leftpart {
         width: 400px
     }
-    .tokyo_tm_section {
+    .nexuspcs_tm_section {
         padding-left: 400px
     }
-    .tokyo_tm_all_wrap .rightpart {
+    .nexuspcs_tm_all_wrap .rightpart {
         padding-left: 400px
     }
 }
 
 @media(max-width:1200px) {
-    .tokyo_tm_mobile_menu {
+    .nexuspcs_tm_mobile_menu {
         display: block
     }
-    .tokyo_tm_section {
+    .nexuspcs_tm_section {
         padding-left: 0
     }
-    .tokyo_tm_all_wrap .leftpart {
+    .nexuspcs_tm_all_wrap .leftpart {
         display: none
     }
-    .tokyo_tm_all_wrap .rightpart {
+    .nexuspcs_tm_all_wrap .rightpart {
         padding-left: 0
     }
-    .tokyo_tm_all_wrap .rightpart_in {
+    .nexuspcs_tm_all_wrap .rightpart_in {
         border-left: none
     }
-    .tokyo_tm_about {
+    .nexuspcs_tm_about {
         padding-top: 170px
     }
-    .tokyo_tm_portfolio {
+    .nexuspcs_tm_portfolio {
         padding-top: 170px
     }
-    .tokyo_tm_contact {
+    .nexuspcs_tm_contact {
         padding-top: 170px
     }
-    .tokyo_tm_news {
+    .nexuspcs_tm_news {
         padding-top: 170px
     }
-    .tokyo_tm_modalbox_news .box_inner {
+    .nexuspcs_tm_modalbox_news .box_inner {
         width: 100%;
         top: 0;
         bottom: 0
     }
-    .tokyo_tm_modalbox_news .close a {
+    .nexuspcs_tm_modalbox_news .close a {
         color: #000
     }
-    .tokyo_tm_modalbox_news .close {
+    .nexuspcs_tm_modalbox_news .close {
         left: auto;
         right: 5px;
         top: 25px
     }
-    .tokyo_tm_modalbox_news .close .svg {
+    .nexuspcs_tm_modalbox_news .close .svg {
         width: 25px;
         height: 25px
     }
-    .tokyo_tm_modalbox_about .box_inner {
+    .nexuspcs_tm_modalbox_about .box_inner {
         width: 100%;
         top: 0;
         bottom: 0
     }
-    .tokyo_tm_modalbox_about .close a {
+    .nexuspcs_tm_modalbox_about .close a {
         color: #000
     }
-    .tokyo_tm_modalbox_about .close {
+    .nexuspcs_tm_modalbox_about .close {
         left: auto;
         right: 5px;
         top: 25px
     }
-    .tokyo_tm_modalbox_about .close .svg {
+    .nexuspcs_tm_modalbox_about .close .svg {
         width: 25px;
         height: 25px
     }
@@ -2344,97 +2344,97 @@ body.dark .tokyo_tm_settings .cursor li .svg, .tokyo_tm_settings.changed .cursor
     .mouse-cursor {
         display: none
     }
-    .tokyo_tm_mobile_menu .menu_inner {
+    .nexuspcs_tm_mobile_menu .menu_inner {
         padding: 20px
     }
-    .tokyo_tm_home .home_content {
+    .nexuspcs_tm_home .home_content {
         flex-direction: column;
         text-align: center
     }
-    .tokyo_tm_home .avatar {
+    .nexuspcs_tm_home .avatar {
         margin-bottom: 30px
     }
-    .tokyo_tm_home .details {
+    .nexuspcs_tm_home .details {
         margin-left: 0
     }
-    .tokyo_tm_about .description_inner {
+    .nexuspcs_tm_about .description_inner {
         flex-direction: column
     }
-    .tokyo_tm_about .description .left {
+    .nexuspcs_tm_about .description .left {
         width: 100%;
         padding: 0;
         margin-bottom: 50px
     }
-    .tokyo_tm_about .description .right {
+    .nexuspcs_tm_about .description .right {
         width: 100%;
         padding: 0
     }
-    .tokyo_tm_title .title_flex {
+    .nexuspcs_tm_title .title_flex {
         flex-direction: column;
         align-items: flex-start
     }
-    .tokyo_tm_title .portfolio_filter {
+    .nexuspcs_tm_title .portfolio_filter {
         padding-top: 48px
     }
-    .tokyo_tm_modalbox_news .description_wrap {
+    .nexuspcs_tm_modalbox_news .description_wrap {
         padding: 40px
     }
-    .tokyo_tm_modalbox_about .description_wrap {
+    .nexuspcs_tm_modalbox_about .description_wrap {
         padding: 40px
     }
-    .tokyo_tm_modalbox_about .my_box {
+    .nexuspcs_tm_modalbox_about .my_box {
         flex-direction: column
     }
-    .tokyo_tm_modalbox_about .my_box .left {
+    .nexuspcs_tm_modalbox_about .my_box .left {
         width: 100%;
         padding-right: 0;
         margin-bottom: 50px
     }
-    .tokyo_tm_modalbox_about .my_box .right {
+    .nexuspcs_tm_modalbox_about .my_box .right {
         width: 100%;
         padding-left: 0
     }
     .container {
         padding: 0 20px
     }
-    .tokyo_tm_intro .demos img {
+    .nexuspcs_tm_intro .demos img {
         max-width: 100px
     }
 }
 
 @media(max-width:768px) {
-    .tokyo_tm_home .details .name {
+    .nexuspcs_tm_home .details .name {
         font-size: 40px
     }
-    .tokyo_tm_home .avatar {
+    .nexuspcs_tm_home .avatar {
         min-width: 200px;
         min-height: 200px
     }
-    .tokyo_tm_portfolio .portfolio_list {
+    .nexuspcs_tm_portfolio .portfolio_list {
         margin: 0
     }
-    .tokyo_tm_portfolio .portfolio_list li {
+    .nexuspcs_tm_portfolio .portfolio_list li {
         width: 100%;
         padding-left: 0
     }
-    .tokyo_tm_news ul {
+    .nexuspcs_tm_news ul {
         margin: 0
     }
-    .tokyo_tm_news ul li {
+    .nexuspcs_tm_news ul li {
         width: 100%;
         padding-left: 0
     }
-    .tokyo_tm_modalbox_news .main_content .icon {
+    .nexuspcs_tm_modalbox_news .main_content .icon {
         position: relative;
         margin-bottom: 30px
     }
-    .tokyo_tm_modalbox_news .main_content .quotebox {
+    .nexuspcs_tm_modalbox_news .main_content .quotebox {
         padding-left: 0
     }
-    .tokyo_tm_modalbox_about .counter ul {
+    .nexuspcs_tm_modalbox_about .counter ul {
         margin: 0
     }
-    .tokyo_tm_modalbox_about .counter ul li {
+    .nexuspcs_tm_modalbox_about .counter ul li {
         width: 100%;
         padding-left: 0
     }
