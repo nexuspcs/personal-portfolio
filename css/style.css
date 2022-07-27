@@ -1,6 +1,6 @@
 @charset "utf-8";
 html {
-    overflow-x: hidden;
+    overflow-x: hidden; /* testing the x-overflow */
     padding: 0;
     margin: 0
 }
